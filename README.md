@@ -1,2 +1,1 @@
-be happy that you exists not happy because she exists, you matter too.
-learning rust :)
+Just the most random codes I can think of
